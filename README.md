@@ -2,7 +2,7 @@
 
 **2nd Year Computer Engineering Co-op Student @ UAlberta** (Software Option)  
  Passionate about **software development, hardware integration, and building innovative projects**  
- Currently exploring **Full-Stack Development & Embedded Systems**  
+ Currently exploring **Full-Stack Development & Embedded Systems** && **Game Development**  
 
 ## Technologies & Tools  
 - **Languages:** Python, C, C++, Terminal (Unix) Bash,  
@@ -16,6 +16,8 @@ experimentation, Digilent Analog Discovery 2
 ## Currently Learning  
 - Full-Stack Web Development  
 - C#
+- javascript
+- Game Development
 
 ## LET'S Connect 
  **LinkedIn:** [linkedin.com/in/ansh-rajput-3a5b78332](#)  
