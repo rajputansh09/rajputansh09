@@ -1,26 +1,48 @@
-# Hey there! I'm Ansh 
+# 🎮 Hey there! I'm Ansh 👾  
+**2nd Year Computer Engineering Co-op Student @ UAlberta** *(Software Option)*  
+💡 Passionate about **Software Dev, Hardware Hacking**, and turning **imagination into innovation**!  
+⚙️ Currently leveling up in **Full-Stack Dev**, **Embedded Systems**, & **Game Dev** 🕹️  
 
-**2nd Year Computer Engineering Co-op Student @ UAlberta** (Software Option)  
- Passionate about **software development, hardware integration, and building innovative projects**  
- Currently exploring **Full-Stack Development & Embedded Systems** && **Game Development**  
+---
 
-## Technologies & Tools  
-- **Languages:** Python, C, C++, Terminal (Unix) Bash,  
-- **Developer Tools:** Git, GitHub, Spyder, Visual Studios Code,  
-- **Hardware:** 3D Printers, Circuit Prototyping: Breadboards, wires, and basic electronic components for 
-experimentation, Digilent Analog Discovery 2  
-- **Libraries & Frameworks:** NumPy, Matplotlib, Tkinter, MATLAB, Waveforms, Tracker, Logger Pro
-- **MS Office:** Excel, Word, PowerPoint
+## 🧰 Tech Stack & Tools I Use  
+🧠 **Languages:**  
+- 🐍 Python | 💻 C | ⚔️ C++ | 🐚 Bash  
 
+🛠️ **Developer Tools:**  
+- 🧙‍♂️ Git & GitHub  
+- 🧠 Spyder | 🎨 Visual Studio Code  
+- 🔥 Unreal Engine  
 
-## Currently Learning  
-- Full-Stack Web Development  
-- C#
-- javascript
-- Game Development
+🔌 **Hardware Experience:**  
+- 🖨️ 3D Printers  
+- 🔋 Breadboards, wires, sensors, and everything fun with circuits  
+- 🎛️ Digilent Analog Discovery 2  
 
-## LET'S Connect 
- **LinkedIn:** [linkedin.com/in/ansh-rajput-3a5b78332](#)  
- **GitHub:** [github.com/rajputansh09](#)  
+📚 **Libraries & Frameworks:**  
+- 🔢 NumPy | 📊 Matplotlib  
+- 🖼️ Tkinter | 🧠 MATLAB  
+- 🧪 Waveforms | 🎯 Tracker | 📝 Logger Pro  
 
-  
+🧾 **MS Office Suite:**  
+- 📈 Excel | 📄 Word | 📽️ PowerPoint  
+
+---
+
+## 🧠 Currently Grinding Through  
+- 🌐 Full-Stack Web Development  
+- 🧩 C#  
+- 📜 JavaScript  
+- 🎮 Game Development *(because real life needs cheat codes too)*  
+
+---
+
+## 🤝 Let’s Connect & Build Cool Stuff!  
+📎 **LinkedIn:** [linkedin.com/in/ansh-rajput-3a5b78332](#)  
+🐙 **GitHub:** [github.com/rajputansh09](https://github.com/rajputansh09)  
+
+---
+
+### ✨ Bonus Fact:  
+I’m the kind of dev who loves **debugging at 2 AM**, building games that crash (then fixing them), and dreaming in **binary** 🧠💻  
+Let’s create, collaborate, and code our way to epic wins 🚀  
