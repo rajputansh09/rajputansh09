@@ -1,48 +1,72 @@
-# 🎮 Hey there! I'm Ansh 👾  
-**2nd Year Computer Engineering Co-op Student @ UAlberta** *(Software Option)*  
-💡 Passionate about **Software Dev, Hardware Hacking**, and turning **imagination into innovation**!  
-⚙️ Currently leveling up in **Full-Stack Dev**, **Embedded Systems**, & **Game Dev** 🕹️  
+# 👋 Hey, I’m Ansh Rajput  
+
+🎓 **3rd-Year Software Engineering Co-op Student @ University of Alberta**  
+💡 Bridging functionality and creativity through clean, scalable, and impactful software.
 
 ---
 
-## 🧰 Tech Stack & Tools I Use  
-🧠 **Languages:**  
-- 🐍 Python | 💻 C | ⚔️ C++ | 🐚 Bash  
+## 💼 About Me  
 
-🛠️ **Developer Tools:**  
-- 🧙‍♂️ Git & GitHub  
-- 🧠 Spyder | 🎨 Visual Studio Code  
-- 🔥 Unreal Engine  
+Hi, I’m Ansh Rajput — a passionate developer who thrives at the intersection of **engineering logic** and **creative design**. I specialize in building software solutions across the tech stack: from responsive full-stack web applications 🌐, to immersive game environments 🎮, and hardware-integrated embedded systems 🔌.
 
-🔌 **Hardware Experience:**  
-- 🖨️ 3D Printers  
-- 🔋 Breadboards, wires, sensors, and everything fun with circuits  
-- 🎛️ Digilent Analog Discovery 2  
+I’ve contributed as a:
+- **Quality Management Intern** at *Indraprastha Systemcert Pvt. Ltd.*, where I led audits, streamlined technical documents, and ensured ISO compliance.
+- **Marketing Research Intern** at *ICICI Lombard*, conducting stakeholder analysis and presenting actionable insights to senior leadership.
 
-📚 **Libraries & Frameworks:**  
-- 🔢 NumPy | 📊 Matplotlib  
-- 🖼️ Tkinter | 🧠 MATLAB  
-- 🧪 Waveforms | 🎯 Tracker | 📝 Logger Pro  
-
-🧾 **MS Office Suite:**  
-- 📈 Excel | 📄 Word | 📽️ PowerPoint  
+These experiences refined my ability to solve problems, optimize processes, and collaborate across disciplines — traits I now channel into building user-centric, performance-oriented software systems.
 
 ---
 
-## 🧠 Currently Grinding Through  
-- 🌐 Full-Stack Web Development  
-- 🧩 C#  
-- 📜 JavaScript  
-- 🎮 Game Development *(because real life needs cheat codes too)*  
+## 🧰 Core Tools & Technologies  
+
+**Languages:**  
+🐍 Python | 💻 C | ⚔️ C++ | 🐚 Bash | 🌐 JavaScript  
+
+**Web Development:**  
+🔤 HTML | 🎨 CSS | ⚙️ React | 🌐 Node.js | 🐘 PostgreSQL | 🔗 Web3, DApps  
+
+**Game Development:**  
+🔥 Unreal Engine (C++) | 🧩 Unity (C#)  
+
+**Hardware & Prototyping:**  
+🖨️ 3D Printers | ⚡ Breadboards | 🎛️ Digilent Analog Discovery 2  
+
+**Tools & IDEs:**  
+🧙‍♂️ Git & GitHub | 🧪 Visual Studio Code | 🔬 Spyder  
+
+**Scientific / GUI Libraries:**  
+🔢 NumPy | 📊 Matplotlib | 🖼️ Tkinter | 🧠 MATLAB  
+
+**Productivity Suite:**  
+📈 Excel | 📄 Word | 📽️ PowerPoint  
 
 ---
 
-## 🤝 Let’s Connect & Build Cool Stuff!  
-📎 **LinkedIn:** [linkedin.com/in/ansh-rajput-3a5b78332](#)  
-🐙 **GitHub:** [github.com/rajputansh09](https://github.com/rajputansh09)  
+## 🚀 Currently Learning  
+
+- 🧩 **Unity & C#** for 2D/3D gameplay mechanics  
+- 🔍 Advanced **C++ & Unreal Engine** workflows for AAA-level performance  
+- 🌐 Exploring **Web3 and Decentralized App (DApp)** architecture  
 
 ---
 
-### ✨ Bonus Fact:  
-I’m the kind of dev who loves **debugging at 2 AM**, building games that crash (then fixing them), and dreaming in **binary** 🧠💻  
-Let’s create, collaborate, and code our way to epic wins 🚀  
+## 🎮 Gamer-Turned-Developer  
+
+As a gamer first, I approach software with a deep understanding of **interactivity**, **system responsiveness**, and **player/user experience**. Whether it’s crafting a sleek UI or scripting an engaging game mechanic, I aim to build digital experiences that are intuitive, performant, and immersive.
+
+---
+
+## 📂 Portfolio & Code  
+
+🐙 **GitHub:** [github.com/rajputansh09](https://github.com/rajputansh09)
+
+---
+
+## 🤝 Let’s Connect  
+
+I’m always open to exciting **collaborations**, **co-op opportunities**, and projects that blend innovation with real-world impact.  
+Let’s build something meaningful — and fun. 🚀  
+
+---
+
+*“Code is my canvas. Creativity is my fuel.”*
