@@ -20,13 +20,13 @@ These experiences refined my ability to solve problems, optimize processes, and 
 ## 🧰 Core Tools & Technologies  
 
 **Languages:**  
-🐍 Python | 💻 C | ⚔️ C++ | 🐚 Bash | 🌐 JavaScript  
+🐍 Python | 💻 C | ⚔️ C++ | 🐚 Bash | 🌐 JavaScript | 🔩 Motoko 
 
 **Web Development:**  
-🔤 HTML | 🎨 CSS | ⚙️ React | 🌐 Node.js | 🐘 PostgreSQL | 🔗 Web3, DApps  
+🔤 HTML | 🎨 CSS | ⚙️ React | 🌐 Node.js | 🐘 PostgreSQL | 🔗 Web3, DApps | ⛓ Blockchain 
 
 **Game Development:**  
-🔥 Unreal Engine (C++) | 🧩 Unity (C#)  
+🔥 Unreal Engine (C++)  
 
 **Hardware & Prototyping:**  
 🖨️ 3D Printers | ⚡ Breadboards | 🎛️ Digilent Analog Discovery 2  
