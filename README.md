@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://www.anshrajput.com"><img alt="Website" src="https://img.shields.io/badge/Website-anshrajput.com-1f6b45?style=for-the-badge&labelColor=0a1f15"></a>
-  <a href="https://linkedin.com/in/ansh-rajput-3a5b78332"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's_connect-1f6b45?style=for-the-badge&labelColor=0a1f15"></a>
+  <a href="https://linkedin.com/in/rajputansh09"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's_connect-1f6b45?style=for-the-badge&labelColor=0a1f15"></a>
   <a href="https://www.anshrajput.com/Ansh_Rajput_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download_PDF-b48640?style=for-the-badge&labelColor=0a1f15"></a>
   <a href="mailto:rajputansh91224@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajputansh91224%40gmail.com-b48640?style=for-the-badge&labelColor=0a1f15"></a>
 </p>
